@@ -32,19 +32,29 @@
 <p>Completeness</p>
 <p>Empowering Ability</p>
 <p>Elegance</p>
+<p>In conclusion, the optimal solution is one that is fully featured(depth), demonstrates that you understand customer demands(intelligence) includs assistance(completeness), empowers clients(empowering), and is simple to use(elegance)</p>
 
+<b>Can you define some techniques to gather requirements or information from the clients?</b>
+<p>I did like to begin with Brainstorming in order to get as many ideas as possible from a group of people so that i can find potential solutions to problems and establish details of opportunities.</p>
+<p>Then i will go on to document analysis where i will look over the documentation of an existing system to see if there is anything i can learn from it to assist me to create an AS-IS process document</p>
+<p>A Focus group is necessary to obtain input from a group of people who are representative of a product's customers or users. Following that i will go on to the interface analysis to ensure that we produce useable software</p>
+<p>Other steps will include interviews of stakeholders and users, observation, prototyping, reverse engineering and survey and questionnaire</p>
 
+<b>What are the steps to come out with a good product or solution?</b>
+<p>The steps that i usually take, involve:</p>
+<p>Define your target audience</p>
+<p>knowing how to reach audience</p>
+<p>Understand the buying journey</p>
+<p>Validating the Product</p>
+<p>Knowing your competition and be different</p>
+<p>Create a free trial or demo</p>
+<p>get everyone on the same page</p>
+<p>offer early use incentives</p>
+<p>keep testing it</p>
 
-
-
-
-
-
-
-
-
-
-
+<b>What is chipset? How is it Different from Processor and motherboard?</b>
+<p>A chipset is one of the computer's processing units</p>
+<p>It's a collection of integrated circuits that regulate the flow of data between other components and the processor.</p>
 
 
 
