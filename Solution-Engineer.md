@@ -55,6 +55,31 @@
 <b>What is chipset? How is it Different from Processor and motherboard?</b>
 <p>A chipset is one of the computer's processing units</p>
 <p>It's a collection of integrated circuits that regulate the flow of data between other components and the processor.</p>
+<p>All other components including as the CPU, memory and sockets for external connectors and drives are connected to the motherboard</p>
+<p>A motherboard's chipset is a built-in feature</p>
+<p>A processor, on the other hand, is a major integrated circuit block that performs functions in response to instructions from a computer program. It is based on system's logic, arithmetic and input/output.</p>
+
+<b>Share with us Your Greatest achievement</b>
+<p>When i was working for another organization, we needed to fix a software problem and did it by working as a team after after learning from our earlier mistake </p>
+<p>This assignment was completed in such a short amount of time that our employer was overjoyed and offered us a bonus for the month</p>
+
+<b>Why do you feel you are the most suited for this role</b>
+<p>My qualification are a wonderful fit for the job criteria</p>
+<p>My technical talents and job experience, in particular, make me an excellent candidate for the role. </p>
+<p>For example, at my last employement, I oversaw a five-person technical solution team, and we had the best track record in our company branch</p>
+<p>I can apply my previous accomplishments and skills to this position</p>
+
+
+<b>Describe a time when you failed in this role and the lesson you learnt</b>
+<p>In my prior position, we were responsible for developing a solution program, which i described earlier.</p>
+<p>This was supposed to be group project but i started working on it on my own. because this took a long time, i was unable to deliver it on time.</p>
+<p>This prompted a slew of questions, and i found myself totally speechless.</p>
+<p>From then, I learned to operate as part of a team and once i did the work became easier to accomplish and on time</p>
+
+
+
+
+
 
 
 
