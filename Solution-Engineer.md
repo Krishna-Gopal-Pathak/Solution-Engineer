@@ -10,6 +10,7 @@
 <div>
   <b>2. How would you decide the price of solution</b>
   <div>
+    <p></p>
     <p>- The Purpose of pricing is to maximize the solution's long term profit based on the value it gives to clients.</p>
   </div>
 </div>
