@@ -17,6 +17,12 @@
 <b>3. What are the Qualities that technical solutions engineer needs to be successful?</b>
 <p>- You should have an in-depth understanding of software and hardware systems, a passion for sales, and high-level communication skills to succeed as a solutions engineer</p>
 
+<b>18. Why do you feel you are the most suited for this role</b>
+<p>- My qualification are a wonderful fit for the job criteria</p>
+<p>- My technical talents and job experience, in particular, make me an excellent candidate for the role. </p>
+<p>- For example, at my last employement, I oversaw a five-person technical solution team, and we had the best track record in our company branch</p>
+<p>- I can apply my previous accomplishments and skills to this position</p>
+
 <b>4. What major challenges did you face during your last role? how did you manage them?</b>
 <p>- My major challenge in the previous job was to develop a two-way communication system software for the client that not only allowed to add more people to the conference call but also provide complete freedom and encryption to the files</p>
 <p>- The data was sensitive and I was able to achieve this by constant communication with my technical team and with deep research, we were able to create this for our client.</p>
@@ -107,11 +113,7 @@
 <p>- When i was working for another organization, we needed to fix a software problem and did it by working as a team after after learning from our earlier mistake </p>
 <p>- This assignment was completed in such a short amount of time that our employer was overjoyed and offered us a bonus for the month</p>
 
-<b>18. Why do you feel you are the most suited for this role</b>
-<p>- My qualification are a wonderful fit for the job criteria</p>
-<p>- My technical talents and job experience, in particular, make me an excellent candidate for the role. </p>
-<p>- For example, at my last employement, I oversaw a five-person technical solution team, and we had the best track record in our company branch</p>
-<p>- I can apply my previous accomplishments and skills to this position</p>
+
 
 
 <b>19. Describe a time when you failed in this role and the lesson you learnt</b>
