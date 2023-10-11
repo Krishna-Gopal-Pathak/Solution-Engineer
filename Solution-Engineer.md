@@ -4,7 +4,7 @@
 <p>Their primary responsibility is to increase sales by explaining the benefits of the company's products and developing bespoke solutions for new customers.</p>
 
 <b>1. Why are you Interested in this role?</b>
-<p>- This was a position that piqued my curiosity right away.</p>
+<p>- This was a position that motivated my curiosity right away.</p>
 <p>- I have completed a number of diplomas and obtained a number of certificates that qualify me for such responsibilities and position.</p>
 <p>- Furthermore, my computer science background demonstrates my enthusiasm for this field</p>
 <p>- This field fascinates me greatly, and I am eager to join your firm</p>
