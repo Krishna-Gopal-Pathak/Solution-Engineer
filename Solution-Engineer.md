@@ -1,6 +1,7 @@
 # Solution-Engineer
 
-Solution engineers are software and hardware experts that work alongside the sales team to provide customized business software solutions for customers.
+<p>Solution engineers are software and hardware experts that work alongside the sales team to provide customized business software solutions for customers.</p>
+<p>Their primary responsibility is to increase sales by explaining the benefits of the company's products and developing bespoke solutions for new customers.</p>
 
 <b>1. What is microprocessor?</b>
 <p></p>
