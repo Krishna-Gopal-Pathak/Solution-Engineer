@@ -3,6 +3,49 @@
 <p>Solution engineers are software and hardware experts that work alongside the sales team to provide customized business software solutions for customers.</p>
 <p>Their primary responsibility is to increase sales by explaining the benefits of the company's products and developing bespoke solutions for new customers.</p>
 
+<b>Why are you Interested in this role?</b>
+<p>This was a position that piqued my curiosity right away.</p>
+<p>I have completed a number of diplomas and obtained a number of certificates that qualify me for such responsibilities and position.</p>
+<p>Furthermore, my computer science background demonstrates my enthusiasm for this field</p>
+<p>This field fascinates me greatly, and I am eager to join your firm</p>
+
+<b>What are the roles of technical solutions engineer?</b>
+<p>A technical solutions engineer is in charge of designing and managing network systems and servers to support corpoate needs and operations, as well as enhancing employee productivity and reducing complicated and time-consuming procedures.</p>
+<p>Technical solution engineers examine system application and servers for quality, look for discrepancies and offer configuration approaches to improve infrastructure</p>
+<p>They also verify that the databases are secure to avoid illegal access and operations from unidentified outside sources.</p>
+
+<b>What are the Qualities that technical solutions engineer needs to be successful?</b>
+<p>You should have an in-depth understanding of software and hardware systems, a passion for sales, and high-level communication skills to succeed as a solutions engineer</p>
+
+<b>What major challenges did you face during your last role? how did you manage them?</b>
+<p>My major challenge in the previous job was to develop a two-way communication system software for the client that not only allowed to add more people to the conference call but also provide complete freedom and encryption to the files</p>
+<p>The data was sensitive and I was able to achieve this by constant communication with my technical team and with deep research, we were able to create this for our client.</p>
+
+<b>Describe your daily routine as a technical solutions engineer?</b>
+<p>An average day in the life of a technical solution engineer in a sales field would look like this:</p>
+<p>Effectively communicating technical features and/or design of the products or services with other technical staff as much as feasible to align with client needs/preferences/pain points</p>
+<p>Customize the solution as much as possible to correspond with client needs/preferences/pain points.</p>
+<p>Present solutions to customers and demonstrate products answer queries and provide general support to both clients and internal staff</p>
+<p>Keep a close eye on market developments or situations.</p>
+
+<b>Describe breifly about your experience</b>
+<p>I have [any number] years of expertise providing technical solutions in a variety of software houses and technical organizations</p>
+<p>On the basis of my schooling and certificates as well as my experience, I was engaged as a technical solution engineer</p>
+<p>My primary responsibility was to provide solution software for clients and to improve my firm's performance.</p>
+
+<b>What kind of strategies and mindset is required for this role?</b>
+<p>The best strategies and mindset is required for this role is to communicate with you, other technical team member</p>
+<p>Apart from this, one should keep learning and updating the education</p>
+
+<b>What is the biggest challenge that you foresee in this job?</b>
+<p>The biggest challenge that I foresee in this role is that you have quite a few staff of technical solutions.</p>
+<p>It helps a lot when you have a good quality staff of different categories</p>
+<p>This helps in developing a good solution software or in gathering the information that saves time and money as well.</p>
+
+<b>How do you stay motivated in your work?</b>
+<p>I love this role and this is waht drives me into this field</p>
+<p>Providing solutions, developing software, resolving hardware issues, and gathering data to improve the overall performance of the firm is what i like the most and it motivates me as well.</p>
+
 <b>1. What is microprocessor?</b>
 <p></p>
 <p>- A microprocessor is a device that is operated by a program.</p>
