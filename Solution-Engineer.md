@@ -1,5 +1,7 @@
 # Solution-Engineer
 
+Solution engineers are software and hardware experts that work alongside the sales team to provide customized business software solutions for customers.
+
 <b>1. What is microprocessor?</b>
 <p></p>
 <p>- A microprocessor is a device that is operated by a program.</p>
